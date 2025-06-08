@@ -19,15 +19,6 @@ This is a full-stack web application deployed using cloud services. The frontend
 
 ## 🖼️ Architecture Diagram
 ![Architecture](./architecture.png)
-your-project/
-├── architecture.png
-├── README.md
-├── client/
-├── server/
-git add architecture.png
-git add assets/architecture.png
-git commit -m "Added architecture diagram"
-git push origin main
 ![Architecture](./assets/architecture.png)
 
 ## 🚀 Features
